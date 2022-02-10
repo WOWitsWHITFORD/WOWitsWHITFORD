@@ -11,5 +11,19 @@
 ## Programming Languages 📀
 
 ## Stats 🛠
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wowitswhitford&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
+<a href="https://github.com/WOWitsWHITFORD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOWitsWHITFORD&langs_count=3&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/WOWitsWHITFORD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WOWitsWHITFORD&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/WOWitsWHITFORD/Learning-Laravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WOWitsWHITFORD&repo=Learning-Laravel&theme=radical&hide_border=true" />
+</a>
+
+
+<a href="https://github.com/WOWitsWHITFORD/WOWitsWHITFORD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WOWitsWHITFORD&repo=WOWitsWHITFORD&theme=radical&hide_border=true" />
+</a>    
