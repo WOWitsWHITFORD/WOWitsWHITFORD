@@ -1,5 +1,7 @@
 ## About Me 🤦‍♂️
 
+## Social Media 📱
+
 ## Desktop Specs 🖥
 
 ## Laptop Specs 💻
