@@ -1,6 +1,8 @@
 ## About Me 🤦‍♂️
+I am a student programmer trying to learn as many languages as possible. These languages will get repos where you can brouse through my code and and progress and I will update them nearly every week with tutorials and notes + whatever else might be important.
 
 ## Social Media 📱
+
 
 ## Desktop Specs 🖥
 
