@@ -118,8 +118,8 @@ I am a student programmer trying to learn as many languages as possible. These l
 
 ## Featured Projects 🚧
 
-<a href="https://github.com/WOWitsWHITFORD/Learning-Laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WOWitsWHITFORD&repo=Learning-Laravel&theme=radical&hide_border=true" />
+<a href="https://github.com/WOWitsWHITFORD/Laravel-From-Scratch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WOWitsWHITFORD&repo=Laravel-From-Scatch&theme=radical&hide_border=true" />
 </a>
 
 
