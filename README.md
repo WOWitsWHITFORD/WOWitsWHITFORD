@@ -51,9 +51,23 @@ I am a student programmer trying to learn as many languages as possible. These l
 
 ## Servers 🗂️
 
-## Human Languages 📚
+<a>
+  <img align="center" src="https://img.shields.io/badge/Sentinel_DX3200-133c8b?style=for-the-badge&logo=western-digital&logoColor=white" />
+</a>
+
+## Spoken Languages 📚
 
 ## Programming Languages 📀
+
+<a>
+  <img align="center" src="https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+<a>
+  <img align="center" src="https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+<a>
+  <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</a>
 
 ## Stats 🛠
 
@@ -64,7 +78,8 @@ I am a student programmer trying to learn as many languages as possible. These l
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WOWitsWHITFORD&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 </a>
 
-## Favorite Projects 🚧
+
+## Featured Projects 🚧
 
 <a href="https://github.com/WOWitsWHITFORD/Learning-Laravel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WOWitsWHITFORD&repo=Learning-Laravel&theme=radical&hide_border=true" />
