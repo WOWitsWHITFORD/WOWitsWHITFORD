@@ -15,22 +15,22 @@ I am a student programmer trying to learn as many languages as possible. These l
 
 ## Desktop Specs 🖥
 
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/RTX_3070Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/ThreadRipper_1950x-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/Vengance_RGB_PRO_32GB-ffd700?style=for-the-badge&logo=corsair&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/SN750_1TB-F0921F?style=for-the-badge&logo=western-digital&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/Blue_SSD_2TB-133c8b?style=for-the-badge&logo=western-digital&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/Black_HDD_12TB-000000?style=for-the-badge&logo=western-digital&logoColor=white" />
 </a>
 
