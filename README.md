@@ -1,5 +1,5 @@
 ## About Me 🤦‍♂️
-I am a student programmer trying to learn as many languages as possible. These languages will get repos where you can brouse through my code and and progress and I will update them nearly every week with tutorials and notes + whatever else might be important.
+I am a student programmer trying to learn as many languages as possible. These languages will get repos where you can brouse through my code and and progress and I will update them nearly every week with tutorials and notes + whatever else might be important. Most of my main repos are private and i somtimes make them public.
 
 ## Social Media 📱
 
@@ -35,6 +35,19 @@ I am a student programmer trying to learn as many languages as possible. These l
 </a>
 
 ## Laptop Specs 💻
+
+<a>
+  <img align="center" src="https://img.shields.io/badge/Macbook_Air_2018-808080?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+<a>
+  <img align="center" src="https://img.shields.io/badge/Dual_Core_I5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+</a>
+<a>
+  <img align="center" src="https://img.shields.io/badge/8GB_RAM-808080?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+<a>
+  <img align="center" src="https://img.shields.io/badge/256GB_Flash_Storage-808080?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
 
 ## Servers 🗂️
 
