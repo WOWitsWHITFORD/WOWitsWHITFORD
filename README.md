@@ -36,22 +36,22 @@ I am a student programmer trying to learn as many languages as possible. These l
 
 ## Laptop Specs 💻
 
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/Macbook_Air_2018-808080?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/Dual_Core_I5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/8GB_RAM-808080?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/256GB_Flash_Storage-808080?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
 
 ## Servers 🗂️
 
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/Sentinel_DX3200-133c8b?style=for-the-badge&logo=western-digital&logoColor=white" />
 </a>
 
@@ -59,13 +59,13 @@ I am a student programmer trying to learn as many languages as possible. These l
 
 ## Programming Languages 📀
 
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </a>
 
