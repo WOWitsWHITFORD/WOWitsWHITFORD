@@ -67,13 +67,13 @@ I am a student programmer trying to learn as many languages as possible. These l
 ## Spoken Languages 📚
 
 <a href="">
-  <img align="center" src="https://img.shields.io/badge/English-ab4b52?style=for-the-badge&logo=data:image/png;english&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/English-ab4b52?style=for-the-badge&logo=data:image/svg;english&logoColor=white" />
 </a>
 <a href="">
-  <img align="center" src="https://img.shields.io/badge/Mandrin-f37a48?style=for-the-badge&logo=data:image/png;mandrin&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Mandrin-f37a48?style=for-the-badge&logo=data:image/svg;mandrin&logoColor=white" />
 </a>
 <a href="">
-  <img align="center" src="https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=data:image/png;french&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=data:image/svg;french&logoColor=white" />
 </a>
 
 ## Known Languages 📀
