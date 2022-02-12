@@ -1,3 +1,5 @@
+### This Is A Work In Progress
+
 ## About Me 🤦‍♂️
 I am a student programmer trying to learn as many languages as possible. These languages will get repos where you can brouse through my code and and progress and I will update them nearly every week with tutorials and notes + whatever else might be important. Most of my main repos are private and i somtimes make them public.
 
@@ -49,25 +51,32 @@ I am a student programmer trying to learn as many languages as possible. These l
   <img align="center" src="https://img.shields.io/badge/256GB_Flash_Storage-808080?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
 
+## Used Software 👨‍💻
+
+## Software To Learn 🐜
+
 ## Servers 🗂️
 
 <a href="">
-  <img align="center" src="https://img.shields.io/badge/Sentinel_DX3200-133c8b?style=for-the-badge&logo=western-digital&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Sentinel_DX3200_16TB-133c8b?style=for-the-badge&logo=western-digital&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/StoreEasy_1000TB-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
 </a>
 
 ## Spoken Languages 📚
 
 <a href="">
-  <img align="center" src="https://img.shields.io/badge/English-ab4b52?style=for-the-badge&logodata:img/lang/english.png&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/English-ab4b52?style=for-the-badge&logo=data:image/png;english&logoColor=white" />
 </a>
 <a href="">
-  <img align="center" src="https://img.shields.io/badge/Mandrin-f37a48?style=for-the-badge&logodata:img/lang/mandrin.png&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Mandrin-f37a48?style=for-the-badge&logo=data:image/png;mandrin&logoColor=white" />
 </a>
 <a href="">
-  <img align="center" src="https://img.shields.io/badge/French-0055A4?style=for-the-badge&logodata:img/lang/french.png&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=data:image/png;french&logoColor=white" />
 </a>
 
-## Programming Languages 📀
+## Known Languages 📀
 
 <a href="">
   <img align="center" src="https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -75,8 +84,26 @@ I am a student programmer trying to learn as many languages as possible. These l
 <a href="">
   <img align="center" src="https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
+
+## Languages To Learn 📾
+
 <a href="">
   <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </a>
 
 ## Stats 🛠
